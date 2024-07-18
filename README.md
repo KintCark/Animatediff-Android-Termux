@@ -42,6 +42,10 @@ Seventh
 
 cd AnimateDiff
 
+'Fix' the issue with Python running in PRoot 
+
+export ANDROID_DATA=anything
+
 Eight
 
 pip install torch
