@@ -36,9 +36,15 @@ cmake .. -DUSE_CUDA=OFF -DCMAKE_BUILD_TYPE=Release
 
 Six
 
+cd
+
+then
+
 git clone https://github.com/guoyww/AnimateDiff.git
 
 Seventh
+
+
 
 cd AnimateDiff
 
