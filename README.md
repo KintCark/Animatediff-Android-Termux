@@ -56,11 +56,15 @@ Eight
 
 pip install torch
 
+pip install diffusers[torch]==0.11.1
+
 Ninth
 
 pip install accelerate
 
 Tenth
+
+ignore the decord error use Marco file manager and navigate to the animatediff folder then open requirements.txt with a text editor move decord name and version to the bottom and close the gap. save it and then run this Command.
 
 pip install -r requirements.txt
 
