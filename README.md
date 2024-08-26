@@ -23,17 +23,9 @@ Third
 
 git clone --recursive https://github.com/dmlc/decord
 
-Forth copy all at once then paste in termux press enter also when u see. make
+Forth
 
 cd decord
-mkdir build && cd build
-cmake .. -DUSE_CUDA=0 -DCMAKE_BUILD_TYPE=Release
-make
-
-Fith copy all at once then paste in termux press enter
-
-cmake .. -DUSE_CUDA=OFF -DCMAKE_BUILD_TYPE=Release
-
 
 cd python
 
