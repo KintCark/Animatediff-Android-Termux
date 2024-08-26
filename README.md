@@ -34,6 +34,11 @@ Fith copy all at once then paste in termux press enter
 
 cmake .. -DUSE_CUDA=OFF -DCMAKE_BUILD_TYPE=Release
 
+
+cd python
+
+python3 setup.py install --user
+
 Six
 
 cd
