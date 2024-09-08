@@ -85,7 +85,7 @@ python -u app.py
 
 
 
-
+in order to use this repo u have to navigate to the animatediff folder then open app.py file in a text editor then change line 40 pretraind_sd to Jiali/stable-diffusion-1.5 then save.
 
 
 
