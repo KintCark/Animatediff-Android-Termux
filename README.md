@@ -23,7 +23,22 @@ Third
 
 git clone --recursive https://github.com/dmlc/decord
 
+
+
+3.5>
+
+cd decord
+mkdir build && cd build
+cmake .. -DUSE_CUDA=0 -DCMAKE_BUILD_TYPE=Release
+make
+
+
+
 Forth
+
+cd
+
+Fith
 
 cd decord
 
