@@ -25,7 +25,7 @@ git clone --recursive https://github.com/dmlc/decord
 
 
 
-3.5>
+3.5>PRESS ENTER ON make!
 
 cd decord
 mkdir build && cd build
