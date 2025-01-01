@@ -1,5 +1,4 @@
-# Animatediff-Android-Termux
-I've figured out how to install animatediff official on android XD I almost Gave Up!!
+put --break-system-packages at end of each pip installation, ffmpeg installed a newer version I tried changing it but it didn't work so u can't install decoder I Found another text to video zero webui but it also requires decoder so if someone knows how to downgrade ffmpeg please let me know asap
 
 
 
