@@ -1,3 +1,10 @@
+
+decord install working now I missed some dependencies 
+
+
+
+
+
 Before installing virtual environment
 make sure u install ubuntu in termux first 
 
