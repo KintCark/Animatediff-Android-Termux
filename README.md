@@ -51,6 +51,8 @@ Third
 git clone --recursive https://github.com/dmlc/decord
 
 
+apt-get install libavformat-dev libavfilter-dev libavdevice-dev ffmpeg 
+
 
 3.5>PRESS ENTER ON make!
 
