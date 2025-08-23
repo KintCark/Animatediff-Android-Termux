@@ -70,9 +70,6 @@ python3 setup.py install --user
 
 Six
 
-python
-
-
 cd
 
 then
