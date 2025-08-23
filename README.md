@@ -65,17 +65,13 @@ make
 
 Forth
 
-cd
-
-Fith
-
-cd decord
-
-cd python
-
-python setup.py install --user
+cd ../python
+python3 setup.py install --user
 
 Six
+
+python
+
 
 cd
 
