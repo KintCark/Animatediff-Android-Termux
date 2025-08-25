@@ -31,8 +31,8 @@ apt install python3-full git ffmpeg
 
 Create and activate a virtual environment:
 
-python3 -m venv comfyui-env
-source comfyui-env/bin/activate
+python3 -m venv animatediff-env
+source animatediff-env/bin/activate
 
 
 
