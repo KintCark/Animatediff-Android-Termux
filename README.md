@@ -101,7 +101,7 @@ pip install diffusers[torch]==0.11.1
 
 python -m pip install --upgrade huggingface-hub==0.23.0
 
-pip install gradio==4.0.0
+pip install gradio==3.50.2
 
 Ninth
 
